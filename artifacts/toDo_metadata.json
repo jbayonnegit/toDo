@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "description",
+						"type": "string"
+					}
+				],
+				"name": "addTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ToDo.sol": "toDo"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ToDo.sol": {
+			"keccak256": "0x0c3351ec06b279d41a29a4585a96f43e5ab4127fe15d0c49a528d8fbfe45faae",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fd6a1ba9f6a2b8bce7bb3af2d74c48f95ddb51ed8b9809117f34709a49249c23",
+				"dweb:/ipfs/QmR2pnSJRy2QsUmWA7J8svhWcAeNpJLVxFXVh8SKRtU2FU"
+			]
+		}
+	},
+	"version": 1
+}
